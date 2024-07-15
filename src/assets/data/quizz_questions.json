@@ -1,0 +1,169 @@
+{
+    "title": "Qual a melhor plataforma de games para você ?",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Qual seu tipo de jogo preferido ?",
+            "options": [
+                {
+                    "id": 1,
+                    "name": "Uma boa narrativa com gráficos realistas e de preferência que sejam com a câmera em 3ª pessoa",
+                    "alias": "A"
+                },
+                {
+                    "id": 2,
+                    "name": "Divertidos e que possam ser jogados com a família",
+                    "alias": "B"
+                },
+                {
+                    "id": 3,
+                    "name": "Jogos em FPS com campanhas e multiplayes divertidos para jogar com os amigos e de preferência que sejam em 1ª pessoa.",
+                    "alias": "C"
+                },
+                {
+                    "id": 4,
+                    "name": "Games de estratégia são os melhores além de RPGs em geral",
+                    "alias": "D"
+                },
+                {
+                    "id": 5,
+                    "name": "Jogos independêntes, plataforma e eventualmente algum mais elaborado",
+                    "alias": "E"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "question": "Onde você mais gosta de jogar ?",
+            "options": [
+                {
+                    "id": 1,
+                    "name": "Em qualquer logar, não fico muito em casa e preciso de algo leve e portatil",
+                    "alias": "C"
+                },
+                {
+                    "id": 2,
+                    "name": "Na sala de estar usando minha TV 4K",
+                    "alias": "A"
+                    
+                },
+                {
+                    "id": 3,
+                    "name": "Sala ou no quarto sempre usando meu headset para conversar com os amigos",
+                    "alias": "B"
+                },
+                {
+                    "id": 4,
+                    "name": "No quarto ou na sala, as vezes deitado, mas não fico sempre na mesma casa, então portabilidade seria legal.",
+                    "alias": "E"
+                },
+                {
+                    "id": 5,
+                    "name": "No quarto ou escritório, sempre jogos uma ou duas partidas depois do trabalho",
+                    "alias": "D"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "question": "Você acha que os gráficos são o mais importante em um game ?",
+            "options": [
+                {
+                    "id": 1,
+                    "name": "Sim, os gráficos são estremamente importante, junto de uma boa história",
+                    "alias": "A"
+                },
+                {
+                    "id": 2,
+                    "name": "Jogabilidade e diversão é o mais importante, mas os gráficos também são importante",
+                    "alias": "B"
+                },
+                {
+                    "id": 3,
+                    "name": "Priorizo sempre a taxa de quadros acima de tudo os gráficos são legais, mas não são meu foco",
+                    "alias": "D"
+                },
+                {
+                    "id": 4,
+                    "name": "O importante é jogar e encontrar um meio termo entre a taxa de quadros e os gráficos",
+                    "alias": "E"
+                },
+                {
+                    "id": 5,
+                    "name": "O visual importa, mas nem sempre os games mais bonitos visualmente tem os melhores gráficos, e a diversão vem sempre em primeiro lugar",
+                    "alias": "C"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "question": "Como prefere jogar ?",
+            "options": [
+                {
+                    "id": 1,
+                    "name": "Mouse e teclado para meus FPS, mas um controle não faz mal",
+                    "alias": "D"
+                },
+                {
+                    "id": 2,
+                    "name": "Deitado com algo leve nas mãos",
+                    "alias": "C"
+                },
+                {
+                    "id": 3,
+                    "name": "Curto as melhores tecnologias que um controle pode ter com um bom direcional e gatilhos top de linha, mas que não use pilhas",
+                    "alias": "A"
+                },
+                {
+                    "id": 4,
+                    "name": "Algo confortável mas robusto ao mesmo tempo, não me importo de usar pilhas, mas seria legal ter opções no mercado",
+                    "alias": "B"
+                },
+                {
+                    "id": 5,
+                    "name": "Não tenho preferências, mas precisa ser confortavel e seria legal ter várias opções de controles para comprar",
+                    "alias": "E"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "question": "Até quanto você pode gastar com seus games?",
+            "options": [
+                {
+                    "id": 1,
+                    "name": "Dinheiro não é o problema, mas gosto de mídia física, não me dou bem com jogos digitais",
+                    "alias": "A"
+                },
+                {
+                    "id": 2,
+                    "name": "Promoções é a palavra certa, quero ter várias opções de lojas virtuais a mais disposição para economizar",
+                    "alias": "D"
+                },
+                {
+                    "id": 3,
+                    "name": "Não me importo de pagar mais de 300,00 em um lançamento se o jogo for legal, mas precisa ser em mídia fisica que não desvaloriza rápido, jogo pequenos eu prefiro pegar em promoções na loja virtual.",
+                    "alias": "C"
+                },
+                {
+                    "id": 4,
+                    "name": "Prefiro ter uma opção de assinatura onde eu possa economisar muito e jogar de tudo um pouco",
+                    "alias": "B"
+                },
+                {
+                    "id": 5,
+                    "name": "Não gosto de gastar muito com jogos, sempre espero uma boa promoção na loja virtual",
+                    "alias": "E"
+                }
+            ]
+        }
+    ],
+    "results": {
+        "A": "Com base nas suas resposta um PS5 seria a melhor escolha para o seu perfil",
+        "B": "Com base nas suas resposta um Xbox Serie X/S é a melhor opção para o seu perfil",
+        "C": "Com base nas suas resposta um Nintendo Switch é a melhor opção para o seu perfil",
+        "D": "Com base nas suas resposta um PC Gamer seria a melhor escolha para o seu perfil",
+        "E": "Com base nas suas resposta um PC Portatil é a melhor opção para o seu perfil"
+        
+    }
+}
