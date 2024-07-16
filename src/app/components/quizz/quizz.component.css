@@ -10,6 +10,11 @@
     justify-content: center;
     align-items: center;
     margin-bottom: 10px;
+    
+}
+.quizz-logo img{
+    border-radius: 5px 0px 5px 0px;
+    width: 80%;
 }
 
 .quizz-logo h3{
